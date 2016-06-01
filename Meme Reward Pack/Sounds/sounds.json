@@ -1,0 +1,11 @@
+{
+  "chancecubes.johnCena": {
+    "catagory": "master",
+    "sounds": [
+      {
+        "name": "johnCena",
+        "stream": true
+      }
+    ]
+  }
+}
