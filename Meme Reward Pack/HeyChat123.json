@@ -4,23 +4,22 @@
 		"chance": 20,
 		"Message":
 		[
-			{"message":"Hey chat 123!!!"},
-			{"message":"123" ,"delay":20},
-			{"message":"123" ,"delay":25},
-			{"message":"123" ,"delay":30},
-			{"message":"123" ,"delay":35},
-			{"message":"123" ,"delay":40},
-			{"message":"123" ,"delay":45},
-			{"message":"123" ,"delay":50},
-			{"message":"123" ,"delay":55},
-			{"message":"123" ,"delay":60},
-			{"message":"123" ,"delay":65},
-			{"message":"123" ,"delay":70},
-			{"message":"123" ,"delay":75},
-			{"message":"123" ,"delay":80},
-			{"message":"123" ,"delay":85},
-			{"message":"123" ,"delay":90}
-			
+			{"message":"Hey chat 123!!!", "serverWide":true},
+			{"message":"123" ,"delay":20, "serverWide":true},
+			{"message":"123" ,"delay":25, "serverWide":true},
+			{"message":"123" ,"delay":30, "serverWide":true},
+			{"message":"123" ,"delay":35, "serverWide":true},
+			{"message":"123" ,"delay":40, "serverWide":true},
+			{"message":"123" ,"delay":45, "serverWide":true},
+			{"message":"123" ,"delay":50, "serverWide":true},
+			{"message":"123" ,"delay":55, "serverWide":true},
+			{"message":"123" ,"delay":60, "serverWide":true},
+			{"message":"123" ,"delay":65, "serverWide":true},
+			{"message":"123" ,"delay":70, "serverWide":true},
+			{"message":"123" ,"delay":75, "serverWide":true},
+			{"message":"123" ,"delay":80, "serverWide":true},
+			{"message":"123" ,"delay":85, "serverWide":true},
+			{"message":"123" ,"delay":90, "serverWide":true}
 		],
 		"Sound":
 		[
