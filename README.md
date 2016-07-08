@@ -9,3 +9,5 @@ All packs are recognized and supported by the mod and the author.
 Any other questions or concerns can be directed to any of the following people below:
 
 Turkey2349: Twitter.com/Turkey2349
+
+Jacky1356400: Twitter.com/Jacky1356400
