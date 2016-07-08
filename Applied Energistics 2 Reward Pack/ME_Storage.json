@@ -1,0 +1,74 @@
+{
+	"ME_Storage_1k":
+	{
+		"chance": 55,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:item.ItemBasicStorageCell.1k","Damage":0,"Count":1}}
+		]
+	},
+	"ME_Storage_4k":
+	{
+		"chance": 60,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:item.ItemBasicStorageCell.4k","Damage":0,"Count":1}}
+		]
+	},
+	"ME_Storage_16k":
+	{
+		"chance": 70,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:item.ItemBasicStorageCell.16k","Damage":0,"Count":1}}
+		]
+	},
+	"ME_Storage_64k":
+	{
+		"chance": 80,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:item.ItemBasicStorageCell.64k","Damage":0,"Count":1}}
+		]
+	},
+	"ME_Storage_Component_1k":
+	{
+		"chance": 55,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:item.ItemMultiMaterial","Damage":35,"Count":1}}
+		]
+	},
+	"ME_Storage_Component_4k":
+	{
+		"chance": 60,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:item.ItemMultiMaterial","Damage":36,"Count":1}}
+		]
+	},
+	"ME_Storage_Component_16k":
+	{
+		"chance": 70,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:item.ItemMultiMaterial","Damage":37,"Count":1}}
+		]
+	},
+	"ME_Storage_Component_64k":
+	{
+		"chance": 80,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:item.ItemMultiMaterial","Damage":38,"Count":1}}
+		]
+	},
+	"ME_Storage_Housing":
+	{
+		"chance": 65,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:item.ItemMultiMaterial","Damage":39,"Count":4}}
+		]
+	}
+}

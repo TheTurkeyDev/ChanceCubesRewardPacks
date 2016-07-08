@@ -1,0 +1,39 @@
+{
+	"Certus_Queartz_Ore":
+	{
+		"chance": 40,
+		"Block":
+		[
+			{"XOffSet":0,"YOffSet":0,"ZOffSet":0,"Block":"appliedenergistics2:tile.OreQuartz", "Falling":true,"RelativeToPlayer":false}
+		]
+	},
+	"Charged_Certus_Queartz_Ore":
+	{
+		"chance": 50,
+		"Block":
+		[
+			{"XOffSet":0,"YOffSet":0,"ZOffSet":0,"Block":"appliedenergistics2:tile.OreQuartzCharged", "Falling":true,"RelativeToPlayer":false}
+		]
+	},
+	"ME_Quartz_Grindstone":
+	{
+		"chance": 60,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:tile.BlockGrinder","Damage":0,"Count":1}},
+			{"item":{"id":"appliedenergistics2:tile.BlockCrank","Damage":0,"Count":1}}
+		],
+		"Message":
+		[
+			{"message":"It's so grindy!"}
+		]
+	},
+	"ME_Meteorite_Compass":
+	{
+		"chance": 65,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:tile.BlockSkyCompass","Damage":0,"Count":1}}
+		]
+	}
+}
