@@ -1,0 +1,34 @@
+{
+	"ME_Glass_Cable":
+	{
+		"chance": 55,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:part","Damage":16,"Count":8}}
+		]
+	},
+	"ME_Covered_Cable":
+	{
+		"chance": 60,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:part","Damage":36,"Count":8}}
+		]
+	},
+	"ME_Smart_Cable":
+	{
+		"chance": 70,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:part","Damage":56,"Count":8}}
+		]
+	},
+	"ME_Dense_Cable":
+	{
+		"chance": 75,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:part","Damage":76,"Count":8}}
+		]
+	}
+}

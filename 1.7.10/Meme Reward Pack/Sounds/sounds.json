@@ -1,0 +1,20 @@
+{
+  "chancecubes.HeyChat123": {
+    "catagory": "master",
+    "sounds": [
+      {
+        "name": "HeyChat123",
+        "stream": true
+      }
+    ]
+  },
+  "chancecubes.johnCena": {
+    "catagory": "master",
+    "sounds": [
+      {
+        "name": "johnCena",
+        "stream": true
+      }
+    ]
+  }
+}

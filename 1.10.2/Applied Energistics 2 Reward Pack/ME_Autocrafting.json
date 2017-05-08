@@ -1,0 +1,98 @@
+{
+	"ME_Interface":
+	{
+		"chance": 75,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:interface","Damage":0,"Count":1}}
+		]
+	},
+	"ME_Pattern_Empty":
+	{
+		"chance": 50,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:material","Damage":52,"Count":4}}
+		]
+	},
+	"Molecular_Assembler":
+	{
+		"chance": 75,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:molecular_assembler","Damage":0,"Count":1}}
+		]
+	},
+	"ME_Pattern_Terminal":
+	{
+		"chance": 70,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:part","Damage":340,"Count":1}}
+		]
+	},
+	"ME_Interface_Terminal":
+	{
+		"chance": 70,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:part","Damage":480,"Count":1}}
+		]
+	},
+	"ME_Crafting_Storage_1k":
+	{
+		"chance": 60,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:crafting_storage_1k","Damage":0,"Count":1}}
+		]
+	},
+	"ME_Crafting_Storage_4k":
+	{
+		"chance": 65,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:crafting_storage_4k","Damage":0,"Count":1}}
+		]
+	},
+	"ME_Crafting_Storage_16k":
+	{
+		"chance": 70,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:crafting_storage_16k","Damage":0,"Count":1}}
+		]
+	},
+	"ME_Crafting_Storage_64k":
+	{
+		"chance": 80,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:crafting_storage_64k","Damage":0,"Count":1}}
+		]
+	},
+	"ME_Crafting_Unit":
+	{
+		"chance": 70,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:crafting_unit","Damage":0,"Count":1}}
+		]
+	},
+	"ME_Crafting_CoProcessing_Unit":
+	{
+		"chance": 75,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:crafting_accelerator","Damage":1,"Count":1}}
+		]
+	},
+	"ME_Crafting_Monitor":
+	{
+		"chance": 70,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:crafting_monitor","Damage":0,"Count":1}}
+		]
+	}
+}

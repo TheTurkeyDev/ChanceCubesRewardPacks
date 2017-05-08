@@ -1,0 +1,20 @@
+{
+  "John_Cena": {
+    "chance": -30,
+    "Sound": [
+      {
+        "sound": "chancecubes.johnCena"
+      }
+    ],
+    "Command": [
+      {
+        "command": "/summon PrimedTnt ~ ~1 ~ {Fuse:0}",
+        "delay": 45
+      },
+      {
+        "command": "/summon Zombie ~ ~1 ~ {CustomName:\"John Cena\",CustomNameVisible:1,IsVillager:0,IsBaby:0,Equipment:[{},{},{},{},{id:310,Count:1,tag:{ench:[{id:0,lvl:10},{id:7,lvl:2}]}}],DropChances:[0.085F,0.085F,0.085F,0.085F,0.0F],Attributes:[{Name:generic.movementSpeed,Base:.5}, {Name:generic.strength,Base:2}]}",
+        "delay": 50
+      }
+    ]
+  }
+}

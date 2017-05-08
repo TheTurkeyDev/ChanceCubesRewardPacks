@@ -1,0 +1,82 @@
+{
+	"ME_Charger":
+	{
+		"chance": 65,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:charger","Damage":0,"Count":1}}
+		]
+	},
+	"ME_Chest":
+	{
+		"chance": 65,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:chest","Damage":0,"Count":1}}
+		]
+	},
+	"ME_Controller":
+	{
+		"chance": 75,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:controller","Damage":0,"Count":1}}
+		]
+	},
+	"ME_Energy_Acceptor":
+	{
+		"chance": 65,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:energy_acceptor","Damage":0,"Count":1}}
+		]
+	},
+	"ME_Crafting_Terminal":
+	{
+		"chance": 75,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:part","Damage":360,"Count":1}}
+		]
+	},
+	"ME_Terminal":
+	{
+		"chance": 70,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:part","Damage":380,"Count":1}}
+		]
+	},
+	"ME_Drive":
+	{
+		"chance": 65,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:drive","Damage":0,"Count":1}}
+		]
+	},
+	"ME_Inscriber":
+	{
+		"chance": 65,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:inscriber","Damage":0,"Count":1}}
+		]
+	},
+	"ME_Formation_Plane":
+	{
+		"chance": 75,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:part","Damage":320,"Count":1}}
+		]
+	},
+	"ME_Annihilation_Plane":
+	{
+		"chance": 75,
+		"Item":
+		[
+			{"item":{"id":"appliedenergistics2:part","Damage":300,"Count":1}}
+		]
+	}
+}
